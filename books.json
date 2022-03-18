@@ -1,200 +1,266 @@
 [
   {
-    "id": "GEN"
+    "id": "GEN",
+    "chapter_count": 50
   },
   {
-    "id": "EXO"
+    "id": "EXO",
+    "chapter_count": 40
   },
   {
-    "id": "LEV"
+    "id": "LEV",
+    "chapter_count": 27
   },
   {
-    "id": "NUM"
+    "id": "NUM",
+    "chapter_count": 36
   },
   {
-    "id": "DEU"
+    "id": "DEU",
+    "chapter_count": 34
   },
   {
-    "id": "JOS"
+    "id": "JOS",
+    "chapter_count": 24
   },
   {
-    "id": "JDG"
+    "id": "JDG",
+    "chapter_count": 21
   },
   {
-    "id": "RUT"
+    "id": "RUT",
+    "chapter_count": 4
   },
   {
-    "id": "1SA"
+    "id": "1SA",
+    "chapter_count": 31
   },
   {
-    "id": "2SA"
+    "id": "2SA",
+    "chapter_count": 24
   },
   {
-    "id": "1KI"
+    "id": "1KI",
+    "chapter_count": 22
   },
   {
-    "id": "2KI"
+    "id": "2KI",
+    "chapter_count": 25
   },
   {
-    "id": "1CH"
+    "id": "1CH",
+    "chapter_count": 29
   },
   {
-    "id": "2CH"
+    "id": "2CH",
+    "chapter_count": 36
   },
   {
-    "id": "EZR"
+    "id": "EZR",
+    "chapter_count": 10
   },
   {
-    "id": "NEH"
+    "id": "NEH",
+    "chapter_count": 13
   },
   {
-    "id": "EST"
+    "id": "EST",
+    "chapter_count": 10
   },
   {
-    "id": "JOB"
+    "id": "JOB",
+    "chapter_count": 42
   },
   {
-    "id": "PSA"
+    "id": "PSA",
+    "chapter_count": 150
   },
   {
-    "id": "PRO"
+    "id": "PRO",
+    "chapter_count": 31
   },
   {
-    "id": "ECC"
+    "id": "ECC",
+    "chapter_count": 12
   },
   {
-    "id": "SNG"
+    "id": "SNG",
+    "chapter_count": 8
   },
   {
-    "id": "ISA"
+    "id": "ISA",
+    "chapter_count": 66
   },
   {
-    "id": "JER"
+    "id": "JER",
+    "chapter_count": 52
   },
   {
-    "id": "LAM"
+    "id": "LAM",
+    "chapter_count": 5
   },
   {
-    "id": "EZK"
+    "id": "EZK",
+    "chapter_count": 48
   },
   {
-    "id": "DAN"
+    "id": "DAN",
+    "chapter_count": 12
   },
   {
-    "id": "HOS"
+    "id": "HOS",
+    "chapter_count": 14
   },
   {
-    "id": "JOL"
+    "id": "JOL",
+    "chapter_count": 3
   },
   {
-    "id": "AMO"
+    "id": "AMO",
+    "chapter_count": 9
   },
   {
-    "id": "OBA"
+    "id": "OBA",
+    "chapter_count": 1
   },
   {
-    "id": "JON"
+    "id": "JON",
+    "chapter_count": 4
   },
   {
-    "id": "MIC"
+    "id": "MIC",
+    "chapter_count": 7
   },
   {
-    "id": "NAM"
+    "id": "NAM",
+    "chapter_count": 3
   },
   {
-    "id": "HAB"
+    "id": "HAB",
+    "chapter_count": 3
   },
   {
-    "id": "ZEP"
+    "id": "ZEP",
+    "chapter_count": 3
   },
   {
-    "id": "HAG"
+    "id": "HAG",
+    "chapter_count": 2
   },
   {
-    "id": "ZEC"
+    "id": "ZEC",
+    "chapter_count": 14
   },
   {
-    "id": "MAL"
+    "id": "MAL",
+    "chapter_count": 4
   },
   {
-    "id": "MAT"
+    "id": "MAT",
+    "chapter_count": 28
   },
   {
-    "id": "MRK"
+    "id": "MRK",
+    "chapter_count": 16
   },
   {
-    "id": "LUK"
+    "id": "LUK",
+    "chapter_count": 24
   },
   {
-    "id": "JHN"
+    "id": "JHN",
+    "chapter_count": 21
   },
   {
-    "id": "ACT"
+    "id": "ACT",
+    "chapter_count": 28
   },
   {
-    "id": "ROM"
+    "id": "ROM",
+    "chapter_count": 16
   },
   {
-    "id": "1CO"
+    "id": "1CO",
+    "chapter_count": 16
   },
   {
-    "id": "2CO"
+    "id": "2CO",
+    "chapter_count": 13
   },
   {
-    "id": "GAL"
+    "id": "GAL",
+    "chapter_count": 6
   },
   {
-    "id": "EPH"
+    "id": "EPH",
+    "chapter_count": 6
   },
   {
-    "id": "PHP"
+    "id": "PHP",
+    "chapter_count": 4
   },
   {
-    "id": "COL"
+    "id": "COL",
+    "chapter_count": 4
   },
   {
-    "id": "1TH"
+    "id": "1TH",
+    "chapter_count": 5
   },
   {
-    "id": "2TH"
+    "id": "2TH",
+    "chapter_count": 3
   },
   {
-    "id": "1TI"
+    "id": "1TI",
+    "chapter_count": 6
   },
   {
-    "id": "2TI"
+    "id": "2TI",
+    "chapter_count": 4
   },
   {
-    "id": "TIT"
+    "id": "TIT",
+    "chapter_count": 3
   },
   {
-    "id": "PHM"
+    "id": "PHM",
+    "chapter_count": 1
   },
   {
-    "id": "HEB"
+    "id": "HEB",
+    "chapter_count": 13
   },
   {
-    "id": "JAS"
+    "id": "JAS",
+    "chapter_count": 5
   },
   {
-    "id": "1PE"
+    "id": "1PE",
+    "chapter_count": 5
   },
   {
-    "id": "2PE"
+    "id": "2PE",
+    "chapter_count": 3
   },
   {
-    "id": "1JN"
+    "id": "1JN",
+    "chapter_count": 5
   },
   {
-    "id": "2JN"
+    "id": "2JN",
+    "chapter_count": 1
   },
   {
-    "id": "3JN"
+    "id": "3JN",
+    "chapter_count": 1
   },
   {
-    "id": "JUD"
+    "id": "JUD",
+    "chapter_count": 1
   },
   {
-    "id": "REV"
+    "id": "REV",
+    "chapter_count": 22
   }
 ]
