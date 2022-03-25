@@ -1,0 +1,46 @@
+[
+  {
+    "month": 1,
+    "day": 1,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 1
+        },
+        "end": {
+          "chapter": 2
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 1
+        },
+        "end": {
+          "chapter": 1
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 1,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 1,
+          "verse": 7
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 1
+        },
+        "end": {
+          "chapter": 1
+        }
+      }
+    ]
+  }
+]
