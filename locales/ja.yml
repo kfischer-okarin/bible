@@ -66,3 +66,7 @@ books:
   3JN: 第三ヨハネ
   JUD: ユダ
   REV: 黙示録
+
+formats:
+  chapter: "{book}{chapter}章"
+  verse: "{book}{chapter}章{verse}節"

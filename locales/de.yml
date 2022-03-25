@@ -66,3 +66,7 @@ books:
   3JN: 3. Johannes
   JUD: Judas
   REV: Offenbarung
+
+formats:
+  chapter: "{book} {chapter}"
+  verse: "{book} {chapter}, {verse}"

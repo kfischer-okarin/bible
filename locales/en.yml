@@ -66,3 +66,7 @@ books:
   3JN: 3 John
   JUD: Jude
   REV: Revelation
+
+formats:
+  chapter: "{book} {chapter}"
+  verse: "{book} {chapter}:{verse}"
