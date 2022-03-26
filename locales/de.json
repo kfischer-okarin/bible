@@ -69,6 +69,9 @@
   },
   "formats": {
     "chapter": "{book} {chapter}",
-    "verse": "{book} {chapter}, {verse}"
+    "verse": "{book} {chapter},{verse}",
+    "chapter_range": "{book} {start_chapter}-{end_chapter}",
+    "verse_range": "{book} {start_chapter},{start_verse}-{end_chapter},{end_verse}",
+    "verse_range_same_chapter": "{book} {chapter},{start_verse}-{end_verse}"
   }
 }

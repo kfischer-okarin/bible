@@ -69,6 +69,9 @@
   },
   "formats": {
     "chapter": "{book}{chapter}章",
-    "verse": "{book}{chapter}章{verse}節"
+    "verse": "{book}{chapter}章{verse}節",
+    "chapter_range": "{book}{start_chapter}〜{end_chapter}章",
+    "verse_range": "{book}{start_chapter}章{start_verse}節〜{end_chapter}章{end_verse}節",
+    "verse_range_same_chapter": "{book}{chapter}章{start_verse}〜{end_verse}節"
   }
 }
