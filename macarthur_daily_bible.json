@@ -324,5 +324,855 @@
         }
       }
     ]
+  },
+  {
+    "month": 1,
+    "day": 8,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 15
+        },
+        "end": {
+          "chapter": 16
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 5,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 5,
+          "verse": 7
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 2,
+          "verse": 6
+        },
+        "end": {
+          "chapter": 2,
+          "verse": 9
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 6,
+          "verse": 19
+        },
+        "end": {
+          "chapter": 6,
+          "verse": 34
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 9,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 17
+        },
+        "end": {
+          "chapter": 18
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 5,
+          "verse": 8
+        },
+        "end": {
+          "chapter": 5,
+          "verse": 12
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 2,
+          "verse": 10
+        },
+        "end": {
+          "chapter": 2,
+          "verse": 22
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 7
+        },
+        "end": {
+          "chapter": 7
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 10,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 19
+        },
+        "end": {
+          "chapter": 20
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 6,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 6,
+          "verse": 5
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 4
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 8,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 8,
+          "verse": 17
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 11,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 21
+        },
+        "end": {
+          "chapter": 22
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 6,
+          "verse": 6
+        },
+        "end": {
+          "chapter": 6,
+          "verse": 10
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 5
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 6
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 8,
+          "verse": 18
+        },
+        "end": {
+          "chapter": 8,
+          "verse": 34
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 12,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 23
+        },
+        "end": {
+          "chapter": 24
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 7,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 7,
+          "verse": 5
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 7
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 8
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 9,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 9,
+          "verse": 17
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 13,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 25
+        },
+        "end": {
+          "chapter": 26
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 7,
+          "verse": 6
+        },
+        "end": {
+          "chapter": 7,
+          "verse": 8
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 9
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 10
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 9,
+          "verse": 18
+        },
+        "end": {
+          "chapter": 9,
+          "verse": 38
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 14,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 27
+        },
+        "end": {
+          "chapter": 28
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 7,
+          "verse": 9
+        },
+        "end": {
+          "chapter": 7,
+          "verse": 17
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 11
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 12
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 10,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 10,
+          "verse": 20
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 15,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 29
+        },
+        "end": {
+          "chapter": 30
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 8,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 8,
+          "verse": 5
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 13
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 18
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 10,
+          "verse": 21
+        },
+        "end": {
+          "chapter": 10,
+          "verse": 42
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 16,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 31
+        },
+        "end": {
+          "chapter": 32
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 8,
+          "verse": 6
+        },
+        "end": {
+          "chapter": 8,
+          "verse": 9
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 19
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 20
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 11
+        },
+        "end": {
+          "chapter": 11
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 17,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 33
+        },
+        "end": {
+          "chapter": 34
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 9,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 9,
+          "verse": 5
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 21
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 26
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 12,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 12,
+          "verse": 21
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 18,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 35
+        },
+        "end": {
+          "chapter": 36
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 9,
+          "verse": 6
+        },
+        "end": {
+          "chapter": 9,
+          "verse": 10
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 27
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 30
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 12,
+          "verse": 22
+        },
+        "end": {
+          "chapter": 12,
+          "verse": 50
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 19,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 37
+        },
+        "end": {
+          "chapter": 38
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 9,
+          "verse": 11
+        },
+        "end": {
+          "chapter": 9,
+          "verse": 20
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 3,
+          "verse": 31
+        },
+        "end": {
+          "chapter": 3,
+          "verse": 35
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 13,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 13,
+          "verse": 30
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 20,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 39
+        },
+        "end": {
+          "chapter": 40
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 10,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 10,
+          "verse": 11
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 4,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 4,
+          "verse": 6
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 13,
+          "verse": 31
+        },
+        "end": {
+          "chapter": 13,
+          "verse": 58
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 21,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 41
+        },
+        "end": {
+          "chapter": 42
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 10,
+          "verse": 12
+        },
+        "end": {
+          "chapter": 10,
+          "verse": 18
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 4,
+          "verse": 7
+        },
+        "end": {
+          "chapter": 4,
+          "verse": 9
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 14,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 14,
+          "verse": 21
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 22,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 43
+        },
+        "end": {
+          "chapter": 44
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 11
+        },
+        "end": {
+          "chapter": 11
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 4,
+          "verse": 10
+        },
+        "end": {
+          "chapter": 4,
+          "verse": 13
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 14,
+          "verse": 22
+        },
+        "end": {
+          "chapter": 14,
+          "verse": 36
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 23,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 45
+        },
+        "end": {
+          "chapter": 46
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 12
+        },
+        "end": {
+          "chapter": 12
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 4,
+          "verse": 14
+        },
+        "end": {
+          "chapter": 4,
+          "verse": 17
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 15,
+          "verse": 1
+        },
+        "end": {
+          "chapter": 15,
+          "verse": 20
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 24,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 47
+        },
+        "end": {
+          "chapter": 48
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 13
+        },
+        "end": {
+          "chapter": 13
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 4,
+          "verse": 18
+        },
+        "end": {
+          "chapter": 4,
+          "verse": 19
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 15,
+          "verse": 21
+        },
+        "end": {
+          "chapter": 15,
+          "verse": 39
+        }
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "day": 25,
+    "passages": [
+      {
+        "book": "GEN",
+        "start": {
+          "chapter": 49
+        },
+        "end": {
+          "chapter": 50
+        }
+      },
+      {
+        "book": "PSA",
+        "start": {
+          "chapter": 14
+        },
+        "end": {
+          "chapter": 14
+        }
+      },
+      {
+        "book": "PRO",
+        "start": {
+          "chapter": 4,
+          "verse": 20
+        },
+        "end": {
+          "chapter": 4,
+          "verse": 24
+        }
+      },
+      {
+        "book": "MAT",
+        "start": {
+          "chapter": 16
+        },
+        "end": {
+          "chapter": 16
+        }
+      }
+    ]
   }
 ]
